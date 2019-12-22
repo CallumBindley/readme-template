@@ -42,7 +42,7 @@
 	<br>Version : 2019.12.22
 	<br>Languages Used : HTML, CSS, JavaScript, etc
 		
-	A full descriptiong of the project in long form.<br>
+	A full description of the project in long form.<br>
 	Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a justo elit. Sed scelerisque consectetur rutrum. Vestibulum erat ante, tincidunt quis porttitor vitae, efficitur non massa. Morbi pharetra tempus lacus. Nunc efficitur ante erat, id sodales est rhoncus sollicitudin. Nullam eget magna vel dolor mattis iaculis. Morbi sit amet magna est. Sed interdum eu nisl ut gravida. Maecenas nec lectus quis lorem convallis semper.
 	
 - ### Key Features
@@ -123,7 +123,7 @@ Please take a look at our [contributing](CONTRIBUTING.md) guidelines if you're i
 
 # 
 ## License
-This project is licensed under the terms of the [MIT](LICENSE.md) license.
+This project is free to use under the terms of the [MIT](LICENSE.md) license.
 
 # 
 ## Links
