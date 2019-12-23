@@ -18,9 +18,7 @@
     </a>
 </p>
 
-# 
 ## Table of Contents
-
 - [About](#About)
     - [Description](#Description)
     - [Key Features](#Key-Features)
@@ -35,7 +33,6 @@
 - [Links](#Links)
 - [Support](#Support)
 
-# 
 ## About
 - ### Description
     Author : Callum Bindley
@@ -90,7 +87,6 @@
     </table>
 </center>
 
-#	
 ## Getting Started
 - ### Requirements
     any required software or version
@@ -105,19 +101,15 @@
 - ### API
     Description of how to use the API
 
-# 
 ## Contributing
 Please take a look at our [contributing](CONTRIBUTING.md) guidelines if you're interested in helping!
 
-# 
 ## License
 This project is free to use under the terms of the [MIT](LICENSE.md) license.
 
-# 
 ## Links
 - [Awesome README](https://github.com/matiassingers/awesome-readme)
 
-# 
 ## Support
 
 <a href="https://www.buymeacoffee.com" target="_blank">
