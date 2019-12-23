@@ -56,48 +56,36 @@
 <center>
   <table>
     <tr>
-      <td>
-		<a href="README_images/placeholder.jpg">
-			<img width="120" alt="#" src="README_images/placeholder.jpg">
-		</a>
-	  </td>
-      <td>
-		<a href="README_images/placeholder.jpg">
-			<img width="120" alt="#" src="README_images/placeholder.jpg">
-		</a>
-	  </td>
-	  <td>
-		<a href="README_images/placeholder.jpg">
-			<img width="120" alt="#" src="README_images/placeholder.jpg">
-		</a>
-	  </td>
-	  <td>
-		<a href="README_images/placeholder.jpg">
-			<img width="120" alt="#" src="README_images/placeholder.jpg">
-		</a>
-	  </td>
-    </tr>
-	<tr>
-      <td>
-		<a href="README_images/placeholder.jpg">
-			<img width="120" alt="#" src="README_images/placeholder.jpg">
-		</a>
-	  </td>
-      <td>
-		<a href="README_images/placeholder.jpg">
-			<img width="120" alt="#" src="README_images/placeholder.jpg">
-		</a>
-	  </td>
-	  <td>
-		<a href="README_images/placeholder.jpg">
-			<img width="120" alt="#" src="README_images/placeholder.jpg">
-		</a>
-	  </td>
-	  <td>
-		<a href="README_images/placeholder.jpg">
-			<img width="120" alt="#" src="README_images/placeholder.jpg">
-		</a>
-	  </td>
+      	<td>
+			<a href="README_images/placeholder.jpg">
+				<img width="120" alt="#" src="README_images/placeholder.jpg">
+			</a>
+		</td>
+		<td>
+			<a href="README_images/placeholder.jpg">
+				<img width="120" alt="#" src="README_images/placeholder.jpg">
+			</a>
+		</td>
+		<td>
+			<a href="README_images/placeholder.jpg">
+				<img width="120" alt="#" src="README_images/placeholder.jpg">
+			</a>
+		</td>
+		<td>
+			<a href="README_images/placeholder.jpg">
+				<img width="120" alt="#" src="README_images/placeholder.jpg">
+			</a>
+		</td>
+		<td>
+			<a href="README_images/placeholder.jpg">
+				<img width="120" alt="#" src="README_images/placeholder.jpg">
+			</a>
+		</td>
+		<td>
+			<a href="README_images/placeholder.jpg">
+				<img width="120" alt="#" src="README_images/placeholder.jpg">
+			</a>
+		</td>
     </tr>
   </table>
 </center>
