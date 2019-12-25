@@ -1,6 +1,6 @@
 <p align="center">
     <a href="#">
-        <img src="README_images/logo.jpg" alt="#" width=20%>
+        <img src="readme-images/logo.jpg" alt="#" width=20%>
     </a>
 </p>
 
@@ -14,7 +14,7 @@
 
 <p align="center">
     <a href="#">
-        <img src="README_images/screenshot.jpg" alt="#" width=100%>
+        <img src="readme-images/screenshot.jpg" alt="#" width=100%>
     </a>
 </p>
 
@@ -54,33 +54,33 @@
     <table>
         <tr>
             <td>
-                <a href="README_images/placeholder.jpg">
-                    <img width="120" alt="#" src="README_images/placeholder.jpg">
+                <a href="readme-images/placeholder.jpg">
+                    <img width="120" alt="#" src="readme-images/placeholder.jpg">
                 </a>
             </td>
             <td>
-                <a href="README_images/placeholder.jpg">
-                    <img width="120" alt="#" src="README_images/placeholder.jpg">
+                <a href="readme-images/placeholder.jpg">
+                    <img width="120" alt="#" src="readme-images/placeholder.jpg">
                 </a>
             </td>
             <td>
-                <a href="README_images/placeholder.jpg">
-                    <img width="120" alt="#" src="README_images/placeholder.jpg">
+                <a href="readme-images/placeholder.jpg">
+                    <img width="120" alt="#" src="readme-images/placeholder.jpg">
                 </a>
             </td>
             <td>
-                <a href="README_images/placeholder.jpg">
-                    <img width="120" alt="#" src="README_images/placeholder.jpg">
+                <a href="readme-images/placeholder.jpg">
+                    <img width="120" alt="#" src="readme-images/placeholder.jpg">
                 </a>
             </td>
             <td>
-                <a href="README_images/placeholder.jpg">
-                    <img width="120" alt="#" src="README_images/placeholder.jpg">
+                <a href="readme-images/placeholder.jpg">
+                    <img width="120" alt="#" src="readme-images/placeholder.jpg">
                 </a>
             </td>
             <td>
-                <a href="README_images/placeholder.jpg">
-                    <img width="120" alt="#" src="README_images/placeholder.jpg">
+                <a href="readme-images/placeholder.jpg">
+                    <img width="120" alt="#" src="readme-images/placeholder.jpg">
                 </a>
             </td>
         </tr>
