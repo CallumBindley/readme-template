@@ -91,7 +91,7 @@
 - ### Requirements
     any required software or version
 
-- ### Installation
+- ### Install
     Description of steps required to get project to run
 
 - ### How to Use
