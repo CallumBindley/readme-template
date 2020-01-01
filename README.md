@@ -23,7 +23,7 @@
     - [API](#API)
 - [Contributing](#Contributing)
 - [License](#License)
-- [Resources Used](#Resources Used)
+- [Resources Used](#Resources-Used)
 - [Support](#Support)
 
 ## About
