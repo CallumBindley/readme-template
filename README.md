@@ -1,14 +1,7 @@
-<p align="center">
-    <a href="#">
-        <img src="readme-images/logo.jpg" alt="#" width=20%>
-    </a>
-</p>
 
-<h2 align="center">
-    Project Title
-</h2>
+## Project Title
 
-<p align="center">
+<p>
     A short 1-2 sentence description of the project.
 </p>
 
