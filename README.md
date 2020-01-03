@@ -84,7 +84,7 @@
 - ### Requirements
     any required software or version
 
-- ### Install
+- ### Installation
     Description of steps required to get project to run
 
 - ### How to Use
