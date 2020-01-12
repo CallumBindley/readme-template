@@ -21,7 +21,7 @@
     - [API](#API)
 - [Contributing](#Contributing)
 - [License](#License)
-- [Resources Used](#Resources-Used)
+- [Resources](#Resources)
 - [Support](#Support)
 
 ## About
@@ -98,7 +98,7 @@ Please take a look at our [contributing](CONTRIBUTING.md) guidelines if you're i
 ## License
 This project is free to use under the terms of the [MIT](LICENSE.md) license.
 
-## Resources Used
+## Resources
 - [Awesome README](https://github.com/matiassingers/awesome-readme)
 
 ## Support
