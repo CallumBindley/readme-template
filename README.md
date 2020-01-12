@@ -6,9 +6,7 @@
 </p>
 
 <p align="center">
-    <a href="#">
-        <img src="readme-images/screenshot.jpg" alt="#" width=100%>
-    </a>
+    <img src="readme-images/screenshot.jpg" alt="#" width=100%>
 </p>
 
 ## Table of Contents
